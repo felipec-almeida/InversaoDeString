@@ -1,0 +1,15 @@
+C:\Users\felip\OneDrive\Área de Trabalho\InversãoString\bin\Debug\net7.0\InversãoString.exe
+C:\Users\felip\OneDrive\Área de Trabalho\InversãoString\bin\Debug\net7.0\InversãoString.deps.json
+C:\Users\felip\OneDrive\Área de Trabalho\InversãoString\bin\Debug\net7.0\InversãoString.runtimeconfig.json
+C:\Users\felip\OneDrive\Área de Trabalho\InversãoString\bin\Debug\net7.0\InversãoString.dll
+C:\Users\felip\OneDrive\Área de Trabalho\InversãoString\bin\Debug\net7.0\InversãoString.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\InversãoString\obj\Debug\net7.0\InversãoString.csproj.AssemblyReference.cache
+C:\Users\felip\OneDrive\Área de Trabalho\InversãoString\obj\Debug\net7.0\InversãoString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\OneDrive\Área de Trabalho\InversãoString\obj\Debug\net7.0\InversãoString.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\InversãoString\obj\Debug\net7.0\InversãoString.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Área de Trabalho\InversãoString\obj\Debug\net7.0\InversãoString.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\InversãoString\obj\Debug\net7.0\InversãoString.dll
+C:\Users\felip\OneDrive\Área de Trabalho\InversãoString\obj\Debug\net7.0\refint\InversãoString.dll
+C:\Users\felip\OneDrive\Área de Trabalho\InversãoString\obj\Debug\net7.0\InversãoString.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\InversãoString\obj\Debug\net7.0\InversãoString.genruntimeconfig.cache
+C:\Users\felip\OneDrive\Área de Trabalho\InversãoString\obj\Debug\net7.0\ref\InversãoString.dll
